@@ -11,7 +11,7 @@ Now the company wants insights for 10 ad hoc / business requests.
 
 This project is part of the data analytics boot camp at codebasics.
 
-video presentation link - https://www.linkedin.com/posts/akash-singh-dataanalyst_dataanalytics-codebasics-dataanalysis-activity-7192520947080290304-jSIo?utm_source=share&utm_medium=member_desktop
+video presentation link - https://www.linkedin.com/posts/arbaj-ansari_dataanalytics-sql-powerbi-activity-7268280197932613632-9-38?utm_source=share&utm_medium=member_desktop
 
 
 ## Data Structure/ Data Modeling and Tools
